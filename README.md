@@ -1,6 +1,6 @@
 # nimesh_cv
 
-A new Flutter project.
+An application that shows your CV, this was created while I was learning Flutter.
 
 ## Getting Started
 
